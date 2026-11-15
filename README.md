@@ -40,6 +40,10 @@ An end-to-end computer vision web application built with **YOLO11 Instance Segme
    ```
    Open the local URL shown in your terminal (typically `http://127.0.0.1:7860`).
 
+## Output screenshot
+<img width="1830" height="841" alt="image" src="https://github.com/user-attachments/assets/72aa1809-0a54-4cd3-9cc4-55885025524b" />
+
+
 ## 🧠 Model Training Summary
 The model was trained in Google Colab (T4 GPU) on aerial and drone rooftop imagery annotated with polygon masks:
 - **Base Weights:** `yolo11s-seg.pt`

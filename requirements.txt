@@ -1,7 +1,4 @@
-tensorflow
-numpy
-pandas
+ultralytics
 opencv-python
-Pillow
-matplotlib
-seaborn
+roboflow
+gradio
